@@ -34,5 +34,6 @@ public class PalindromeChecker {
             right--;
         }
         return true;
+        // adding cooment
     }
 }
